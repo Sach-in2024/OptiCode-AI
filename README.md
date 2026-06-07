@@ -1,6 +1,9 @@
-# 🚀 DSA Solver AI
+# 🚀 OptiCode-AI
 
 An AI-powered Data Structures & Algorithms solver built with **Streamlit** and **Groq (LLaMA 3.3 70B)**. Paste any DSA problem and instantly get a brute force solution, optimal solution, complexity analysis, code translation, and a solution review.
+
+
+![Uploading Screenshot 2026-06-07 144659.jpg…]()
 
 ---
 
