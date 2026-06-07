@@ -3,7 +3,8 @@
 An AI-powered Data Structures & Algorithms solver built with **Streamlit** and **Groq (LLaMA 3.3 70B)**. Paste any DSA problem and instantly get a brute force solution, optimal solution, complexity analysis, code translation, and a solution review.
 
 
-![Uploading Screenshot 2026-06-07 144659.jpg…]()
+<img width="1825" height="898" alt="Screenshot 2026-06-07 144659" src="https://github.com/user-attachments/assets/f03b1a7e-51ad-4214-b401-d63ac78eaa91" />
+
 
 ---
 
